@@ -1,4 +1,4 @@
-# cPass_IU_correlation
+# cPass to IU Conversion
 cPass reading (% inhibition) to International Units (IU)/ml of the WHO International Standard
 
 Using data representing 21 biological replicas from three international groups, we obtained a highly reproducible calibration of cPass reading (% inhibition) to International Units (IU)/ml of the WHO International Standard with a correlation efficient R(2) at 0.978. We have developed a convenient Excel-based conversion tool.
